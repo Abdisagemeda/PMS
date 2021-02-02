@@ -42,7 +42,7 @@
 							</div>
 						</div>
 							<div class="d-flex justify-content-center mt-3 login_container">
-				 	<button type="button" name="button" class="btn login_btn">Sign Up</button>
+				 	<button type="button" name="button" class="btn signup_btn">Sign Up</button>
 				   </div>
 					</form>
 				</div>
