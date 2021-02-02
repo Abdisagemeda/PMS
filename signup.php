@@ -2,7 +2,7 @@
 <html>
     
 <head>
-	<title>PMS|Login</title>
+	<title>PMS|Sign Up</title>
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -34,22 +34,7 @@
 								<span class="input-group-text"><i class="fas fa-key"></i></span>
 							</div>
 							<input type="password" name="" class="form-control input_pass" value="" placeholder="password">
-							
 						</div>
-						<div class="input-group mb-2">
-							<div class="input-group-append">
-								<span class="input-group-text"><i class="fas fa-user"></i></span>
-							</div>
-							<select name="" id="cars" class="form-control input_pass">
-								<option value="volvo">Employee</option>
-								<option value="saab">purchaser</option>
-								<option value="mercedes">storekeeper</option>
-								<option value="audi">department manager</option>
-								<option value="audi">finance officer</option>
-							</select>
-							
-						</div>
-						
 						<div class="form-group">
 							<div class="custom-control custom-checkbox">
 								<input type="checkbox" class="custom-control-input" id="customControlInline">
@@ -57,7 +42,7 @@
 							</div>
 						</div>
 							<div class="d-flex justify-content-center mt-3 login_container">
-				 	<button type="button" name="button" class="btn login_btn">Login</button>
+				 	<button type="button" name="button" class="btn login_btn">Sign Up</button>
 				   </div>
 					</form>
 				</div>
